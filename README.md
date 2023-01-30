@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on getting some projects in Github
-- 🌱 I’m currently in high school
+- 🌱 I’m currently attending San Jose State University majoring in Computer Engineering
 - 👯 I’m looking to collaborate on bigger programming projects like games and apps
 - 🤔 I’m looking for help with interesting engeneering projects 
 - 💬 Ask me about my future plans with tech and school
