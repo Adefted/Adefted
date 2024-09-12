@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on getting some projects in Github
 - 🌱 I’m currently attending San Jose State University majoring in Computer Engineering
-- 👯 I’m looking to collaborate on bigger programming projects like games and apps
-- 🤔 I’m looking for help with interesting engeneering projects 
+- 👯 I’m looking to collaborate on bigger programming projects
+- 🤔 I’m looking for help with interesting engineering projects 
 - 💬 Ask me about my future plans with tech and school
 - 📫 How to reach me: hrantminasyan10@gmail.com
-- ⚡ Fun fact: I got interested in computers when I was eight years old
